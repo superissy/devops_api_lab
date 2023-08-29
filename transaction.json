@@ -1,0 +1,37 @@
+[
+    {
+      "transaction_id": "T001",
+      "date": "2023-08-25",
+      "amount": 150.75,
+      "customer": "John Smith",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "T002",
+      "date": "2023-08-24",
+      "amount": 42.99,
+      "customer": "Jane Doe",
+      "status": "pending"
+    },
+    {
+      "transaction_id": "T003",
+      "date": "2023-08-23",
+      "amount": 200.00,
+      "customer": "Michael Johnson",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "T004",
+      "date": "2023-08-22",
+      "amount": 75.50,
+      "customer": "Emily Brown",
+      "status": "failed"
+    },
+    {
+      "transaction_id": "T005",
+      "date": "2023-08-21",
+      "amount": 500.25,
+      "customer": "David Wilson",
+      "status": "completed"
+    }
+]
